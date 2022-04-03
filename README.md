@@ -1,6 +1,8 @@
-# crud-with-python
+# Ventas CLI: a CRUD with python
 
-Use:
+After cloning the repository execute: $pip install .
+
+Commands:
 * ventas clients create: creates a client
 * ventas clients list: lists all the clients
 * ventas clients update {id}: updates the corresponding client
